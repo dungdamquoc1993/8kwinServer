@@ -1,0 +1,62 @@
+
+civic.png
+size: 328,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgnhanngay
+  rotate: false
+  xy: 2, 244
+  size: 323, 79
+  orig: 323, 79
+  offset: 0, 0
+  index: -1
+choisuong
+  rotate: false
+  xy: 2, 150
+  size: 179, 33
+  orig: 179, 33
+  offset: 0, 0
+  index: -1
+den
+  rotate: false
+  xy: 183, 148
+  size: 86, 35
+  orig: 86, 35
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 18
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+nhanngay
+  rotate: false
+  xy: 2, 185
+  size: 304, 57
+  orig: 304, 57
+  offset: 0, 0
+  index: -1
+vive
+  rotate: false
+  xy: 2, 83
+  size: 118, 65
+  orig: 118, 65
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 122, 92
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+x4
+  rotate: true
+  xy: 308, 206
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1

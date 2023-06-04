@@ -1,0 +1,32 @@
+﻿{
+  // these configs load on startup and cannot be change
+  // set port 0 to turn off, can be a port number or array of port numbers
+  "mysql-connection": "server=127.0.0.1;database={0};SslMode=none;uid=root;pwd=King86@Club!2009!;CharSet=utf8mb4;",
+  "mysql-defaul-db": "cgame",
+
+  "redis-address": "127.0.0.1",
+  "redis-password": "",
+
+  "usd-price": 23000,
+  "webservice-ip": "new-banca-service-2.default",
+  "webservice-port": 3000,
+  "webservice-dns": "127.0.0.1",
+  "allow-ip-service": [],
+  "Access-Control-Allow-Origin": "*",
+
+  "log-to-file": true,
+  "log-to-console": true,
+  // DEBUG, INFO, WARNING, ERROR, FATAL
+  "log-level": "DEBUG",
+
+  // try to call when server finished stop request
+  "quit-cmd": "pm2",
+  "quit-arg": "stop cgame",
+
+  "xxeng-backend": "http://localhost:8082",
+  "xxeng-host": "http://localhost:8081",
+  "adress-ip": "34.92.144.237",
+
+  "coinpayment_privkey": "E64F4Fc62682D52a49BB19A82a304bA62fa3c6eB5D35F1F675651e0935ed2d4b",
+  "coinpayment_pubkey": "27162ceb6f7b9b5412d691b74eefde7d0d3676ea7632f008c7817c4ee61d791c"
+}

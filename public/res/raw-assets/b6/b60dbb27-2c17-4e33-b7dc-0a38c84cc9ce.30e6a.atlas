@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_xoay_khi_dem
+  rotate: false
+  xy: 2, 2
+  size: 295, 292
+  orig: 295, 292
+  offset: 0, 0
+  index: -1

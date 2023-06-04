@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BanCaLiteNet", "BanCaLiteNet.csproj", "{DEAAD584-EF00-4165-9E63-9ED972D210EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "..\Core\Core.csproj", "{681A64EE-904E-41E4-9F4C-401CDE0EA0A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BanCaNetCore", "..\BanCaNetCore\BanCaNetCore.csproj", "{2D38404B-003B-4487-976F-2C6D96EEAA87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fleck", "..\Fleck\Fleck.csproj", "{677D249E-D47F-4703-B909-5DB06BEEFE67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "websocket-sharp", "..\websocket-sharp\websocket-sharp.csproj", "{B357BAC7-529E-4D81-A0D2-71041B19C8DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Ubuntu|Any CPU = Debug_Ubuntu|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release_Ubuntu|Any CPU = Release_Ubuntu|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAAD584-EF00-4165-9E63-9ED972D210EC}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAAD584-EF00-4165-9E63-9ED972D210EC}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
+		{DEAAD584-EF00-4165-9E63-9ED972D210EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAAD584-EF00-4165-9E63-9ED972D210EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAAD584-EF00-4165-9E63-9ED972D210EC}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAAD584-EF00-4165-9E63-9ED972D210EC}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
+		{DEAAD584-EF00-4165-9E63-9ED972D210EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAAD584-EF00-4165-9E63-9ED972D210EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681A64EE-904E-41E4-9F4C-401CDE0EA0A6}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
+		{681A64EE-904E-41E4-9F4C-401CDE0EA0A6}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
+		{681A64EE-904E-41E4-9F4C-401CDE0EA0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681A64EE-904E-41E4-9F4C-401CDE0EA0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681A64EE-904E-41E4-9F4C-401CDE0EA0A6}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
+		{681A64EE-904E-41E4-9F4C-401CDE0EA0A6}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
+		{681A64EE-904E-41E4-9F4C-401CDE0EA0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681A64EE-904E-41E4-9F4C-401CDE0EA0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677D249E-D47F-4703-B909-5DB06BEEFE67}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
+		{677D249E-D47F-4703-B909-5DB06BEEFE67}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
+		{677D249E-D47F-4703-B909-5DB06BEEFE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677D249E-D47F-4703-B909-5DB06BEEFE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677D249E-D47F-4703-B909-5DB06BEEFE67}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
+		{677D249E-D47F-4703-B909-5DB06BEEFE67}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
+		{677D249E-D47F-4703-B909-5DB06BEEFE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677D249E-D47F-4703-B909-5DB06BEEFE67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Release_Ubuntu|Any CPU.ActiveCfg = Release|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Release_Ubuntu|Any CPU.Build.0 = Release|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EBCB456-C9D9-493D-8A3C-1B9A3BC29F79}
+	EndGlobalSection
+EndGlobal

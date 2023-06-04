@@ -1,0 +1,40 @@
+loby 1.png
+  size: 335,333
+  format: RGBA8888
+  filter: Linear,Linear
+  repeat: none
+Fx/satr
+  rotate: false
+  xy: 2, 111
+  size: 211, 220
+  orig: 211, 220
+  offset: 0, 0
+  index: -1
+char_caothap_coin1
+  rotate: false
+  xy: 215, 159
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+char_caothap_coin2
+  rotate: false
+  xy: 2, 30
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+char_cuahang
+  rotate: true
+  xy: 215, 197
+  size: 134, 118
+  orig: 134, 118
+  offset: 0, 0
+  index: -1
+text_cuahang
+  rotate: false
+  xy: 2, 66
+  size: 152, 43
+  orig: 152, 43
+  offset: 0, 0
+  index: -1

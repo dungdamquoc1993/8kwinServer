@@ -1,0 +1,40 @@
+taixxiu.png
+  size: 419,419
+  format: RGBA8888
+  filter: Linear,Linear
+  repeat: none
+File 000374_1-1
+  rotate: false
+  xy: 271, 289
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tt_taixiu_char1
+  rotate: false
+  xy: 2, 12
+  size: 300, 177
+  orig: 300, 177
+  offset: 0, 0
+  index: -1
+tt_taixiu_char2
+  rotate: false
+  xy: 2, 191
+  size: 267, 226
+  orig: 267, 226
+  offset: 0, 0
+  index: -1
+tt_taixiu_textdd
+  rotate: false
+  xy: 271, 206
+  size: 137, 81
+  orig: 137, 81
+  offset: 0, 0
+  index: -1
+tt_taixiu_texttx
+  rotate: true
+  xy: 304, 2
+  size: 202, 56
+  orig: 202, 56
+  offset: 0, 0
+  index: -1

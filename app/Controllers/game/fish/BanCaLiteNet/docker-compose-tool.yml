@@ -1,0 +1,17 @@
+services:
+  redis:
+    image: bitnami/redis:latest
+    ports:
+      - "127.0.0.1:6379:6379"
+    expose:
+      - 6379
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
+    restart: always
+    #//*volumes:
+    #  - game-db:/data*/
+
+volumes:
+  game-db:
+    external:
+      name: game-db

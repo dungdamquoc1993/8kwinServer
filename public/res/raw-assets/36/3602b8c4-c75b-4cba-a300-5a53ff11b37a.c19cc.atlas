@@ -1,0 +1,19 @@
+loby 1.png
+  size: 161,159
+  format: RGBA8888
+  filter: Linear,Linear
+  repeat: none
+char_sukien
+  rotate: false
+  xy: 2, 28
+  size: 115, 129
+  orig: 115, 129
+  offset: 0, 0
+  index: -1
+text_sukien
+  rotate: true
+  xy: 119, 37
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1

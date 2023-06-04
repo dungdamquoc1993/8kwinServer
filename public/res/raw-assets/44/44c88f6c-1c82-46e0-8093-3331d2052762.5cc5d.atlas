@@ -1,0 +1,160 @@
+
+ICONLOBBY.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DONG MAU
+  rotate: true
+  xy: 1977, 131
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+DONG MAU DAU MODEL
+  rotate: false
+  xy: 765, 68
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+DONG MAU LUA1
+  rotate: false
+  xy: 562, 130
+  size: 103, 121
+  orig: 103, 121
+  offset: 0, 0
+  index: -1
+DONG MAU LUA10
+  rotate: true
+  xy: 1749, 154
+  size: 97, 113
+  orig: 97, 113
+  offset: 0, 0
+  index: -1
+DONG MAU LUA11
+  rotate: true
+  xy: 1864, 155
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+DONG MAU LUA12
+  rotate: true
+  xy: 1037, 153
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+DONG MAU LUA13
+  rotate: true
+  xy: 562, 28
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+DONG MAU LUA14
+  rotate: false
+  xy: 673, 37
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+DONG MAU LUA2
+  rotate: true
+  xy: 1402, 151
+  size: 100, 114
+  orig: 100, 114
+  offset: 0, 0
+  index: -1
+DONG MAU LUA3
+  rotate: true
+  xy: 1634, 153
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+DONG MAU LUA4
+  rotate: true
+  xy: 1518, 153
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: -1
+DONG MAU LUA5
+  rotate: true
+  xy: 1157, 158
+  size: 93, 120
+  orig: 93, 120
+  offset: 0, 0
+  index: -1
+DONG MAU LUA6
+  rotate: true
+  xy: 1279, 160
+  size: 91, 121
+  orig: 91, 121
+  offset: 0, 0
+  index: -1
+DONG MAU LUA7
+  rotate: true
+  xy: 791, 152
+  size: 99, 122
+  orig: 99, 122
+  offset: 0, 0
+  index: -1
+DONG MAU LUA8
+  rotate: true
+  xy: 667, 150
+  size: 101, 122
+  orig: 101, 122
+  offset: 0, 0
+  index: -1
+DONG MAU LUA9
+  rotate: true
+  xy: 915, 154
+  size: 97, 120
+  orig: 97, 120
+  offset: 0, 0
+  index: -1
+DONG MAU MAT1
+  rotate: false
+  xy: 271, 58
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+DONG MAU MAT2
+  rotate: false
+  xy: 129, 11
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+DONG MAU MODEL
+  rotate: true
+  xy: 324, 56
+  size: 195, 236
+  orig: 195, 236
+  offset: 0, 0
+  index: -1
+DONG MAU TAY
+  rotate: true
+  xy: 2, 2
+  size: 72, 125
+  orig: 72, 125
+  offset: 0, 0
+  index: -1
+DONG MAU2
+  rotate: false
+  xy: 129, 29
+  size: 140, 45
+  orig: 140, 45
+  offset: 0, 0
+  index: -1
+DONGMAUFRAME2
+  rotate: true
+  xy: 2, 76
+  size: 175, 320
+  orig: 175, 320
+  offset: 0, 0
+  index: -1

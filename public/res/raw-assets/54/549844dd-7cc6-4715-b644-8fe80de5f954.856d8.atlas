@@ -1,0 +1,47 @@
+homnhiemvu.png
+ size: 282,134
+ format: RGBA8888
+ filter: Linear,Linear
+ repeat: none
+asnen
+ rotate: false
+ xy: 2, 2
+ size: 144, 130
+ orig: 144, 130
+ offset: 0, 0
+ index: -1
+hom1
+ rotate: false
+ xy: 148, 3
+ size: 63, 57
+ orig: 63, 57
+ offset: 0, 0
+ index: -1
+hom2
+ rotate: false
+ xy: 148, 62
+ size: 63, 70
+ orig: 63, 70
+ offset: 0, 0
+ index: -1
+nensang1
+ rotate: true
+ xy: 257, 3
+ size: 70, 23
+ orig: 70, 23
+ offset: 0, 0
+ index: -1
+nensang2
+ rotate: true
+ xy: 213, 9
+ size: 64, 42
+ orig: 64, 42
+ offset: 0, 0
+ index: -1
+saosang
+ rotate: false
+ xy: 213, 75
+ size: 56, 57
+ orig: 56, 57
+ offset: 0, 0
+ index: -1

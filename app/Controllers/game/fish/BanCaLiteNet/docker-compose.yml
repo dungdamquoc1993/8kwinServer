@@ -1,0 +1,9 @@
+services:
+  fish:
+    image: bancodegame/fish:latest
+    ports:
+      - "127.0.0.1:2083:2083"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    network_mode: host

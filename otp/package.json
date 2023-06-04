@@ -1,0 +1,21 @@
+{
+  "name": "opt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "mongoose": "^5.12.3",
+    "mongoose-auto-increment-reworked": "^1.2.1",
+    "mongoose-long": "^0.3.2",
+    "morgan": "^1.10.0",
+    "shortid": "^2.2.16",
+    "telebot": "^1.4.1"
+  }
+}

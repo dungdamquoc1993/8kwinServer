@@ -1,0 +1,97 @@
+
+icon_duatop.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dua
+  rotate: false
+  xy: 1658, 172
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+Group 14
+  rotate: false
+  xy: 2, 2
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+Group 6
+  rotate: false
+  xy: 218, 4
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+Top
+  rotate: false
+  xy: 432, 4
+  size: 87, 58
+  orig: 87, 58
+  offset: 0, 0
+  index: -1
+ef/1
+  rotate: false
+  xy: 432, 64
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+ef/2
+  rotate: false
+  xy: 586, 64
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+ef/3
+  rotate: false
+  xy: 740, 64
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+ef/4
+  rotate: false
+  xy: 894, 64
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+ef/5
+  rotate: false
+  xy: 1048, 64
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+ef/6
+  rotate: false
+  xy: 1202, 64
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+ef/7
+  rotate: false
+  xy: 1356, 64
+  size: 151, 152
+  orig: 151, 152
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 1509, 78
+  size: 147, 138
+  orig: 147, 138
+  offset: 0, 0
+  index: -1
+vip
+  rotate: false
+  xy: 521, 16
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: -1

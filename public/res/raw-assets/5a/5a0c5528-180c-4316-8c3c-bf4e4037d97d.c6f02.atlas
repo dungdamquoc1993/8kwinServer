@@ -1,0 +1,26 @@
+tophu.png
+ size: 116,116
+ format: RGBA8888
+ filter: Linear,Linear
+ repeat: none
+TOP
+ rotate: false
+ xy: 2, 4
+ size: 43, 34
+ orig: 43, 34
+ offset: 0, 0
+ index: -1
+gfx
+ rotate: false
+ xy: 2, 40
+ size: 75, 73
+ orig: 75, 73
+ offset: 0, 0
+ index: -1
+hu
+ rotate: false
+ xy: 47, 2
+ size: 39, 36
+ orig: 39, 36
+ offset: 0, 0
+ index: -1
